@@ -4,9 +4,7 @@
 🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
 # Background
-Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
-
-Data hails from my [SQL Course](https://lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
+This project was created out of a desire to gain a clearer understanding of the data analyst job market, with the goal of identifying the most in-demand and highest-paying skills. I drew inspiration and guidance from Luke Barousse’s [SQL Course](https://lukebarousse.com/sql). The dataset contains key information from job postings — including job titles, salaries, locations, and the skills most frequently required by employers.
 
 ### The questions I wanted to answer through my SQL queries were:
 
